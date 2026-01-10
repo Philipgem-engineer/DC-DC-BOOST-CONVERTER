@@ -2,8 +2,8 @@
 This repository contains schematic and PCB design of a DC DC BOOST CONVERTER that steps up voltage from 5 V to 12 V. It also contains battery charging circuit.
 
 ##  FEATURES
- - INPUT VOLTAGE: 12 V
- - OUTPUT VOLTAGE: 5 V
+ - INPUT VOLTAGE: 5 V
+ - OUTPUT VOLTAGE: 12 V
  - OUTPUT CURRENT: 4 A
  - 97% Efficiency
  - under-voltage lockout, current limiting, and thermal overload protection to prevent damage in the event of an output overload
