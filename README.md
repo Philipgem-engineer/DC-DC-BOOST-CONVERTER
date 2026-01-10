@@ -24,5 +24,9 @@ This repository contains schematic and PCB design of a DC DC BOOST CONVERTER tha
 <img width="630" height="476" alt="image" src="https://github.com/user-attachments/assets/4f015e53-e5e0-4973-a042-0badd5ae90f3" />
 <img width="683" height="449" alt="image" src="https://github.com/user-attachments/assets/be07810c-8f34-45ca-8fe0-4ec1a0313e57" />
 
+##  MANUFACTURED PCB
+![DC-DC Boost Converter](https://github.com/user-attachments/assets/a245441c-fcd7-4eca-87ac-cd57f71d4f39)
+
+
 
 
