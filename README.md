@@ -30,26 +30,29 @@ This repository contains schematic and PCB design of a DC DC BOOST CONVERTER tha
 ## 📁 File Structure
 
 <details>
-  <summary>DC-DC Boost Converter/</summary>
+  <summary>DC-DC Boost Converter</summary>
   <ul>
     <li>
       Media/
       <ul>
-        <li>(PDF, Images and videos of prototype)</li>
+        <li>(PDF, images, and videos of prototype)</li>
       </ul>
     </li>
     <li>
-      production files/
+      Production Files/
       <ul>
-        <li>(Gerber, BOM, Positions)</li>
-      </ul>
-     li>
-      Kicad Files/
-      <ul>
-        <li>(Schematic, PCB, Library)</li>
+        <li>(Gerber, BOM, positions)</li>
       </ul>
     </li>
+    <li>
+      KiCad Files/
+      <ul>
+        <li>(Schematic, PCB, library)</li>
+      </ul>
+    </li>
+  </ul>
 </details>
+
 
 
 
