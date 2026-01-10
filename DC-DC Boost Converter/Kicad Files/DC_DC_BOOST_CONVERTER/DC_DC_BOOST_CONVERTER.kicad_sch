@@ -1,0 +1,104 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "22645b36-84af-4b49-99de-dce2d89d36ca")
+	(paper "A4")
+	(title_block
+		(title "DC-DC BUCK BOOST CONVERTER")
+		(date "2025-11-08")
+		(rev "1")
+		(company "Philip Gem Arradaza")
+	)
+	(lib_symbols)
+	(sheet
+		(at 148.59 55.88)
+		(size 130.81 73.66)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "546c0e98-489a-448a-90b1-07cd0b4aff59")
+		(property "Sheetname" "Lithium-ion Battery Charger"
+			(at 148.59 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Lithium-ion_Battery_Charger.kicad_sch"
+			(at 148.59 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DC_DC_BOOST_CONVERTER"
+				(path "/22645b36-84af-4b49-99de-dce2d89d36ca"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 54.61)
+		(size 125.73 76.2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cd005fc-1dc7-4353-8436-b1df4f69b709")
+		(property "Sheetname" "Boost Converter"
+			(at 19.05 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Boost_Converter.kicad_sch"
+			(at 19.05 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DC_DC_BOOST_CONVERTER"
+				(path "/22645b36-84af-4b49-99de-dce2d89d36ca"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
